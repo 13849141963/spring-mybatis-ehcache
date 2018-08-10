@@ -2,6 +2,7 @@
 <ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd">
 
     <diskStore path="java.io.tmpdir"/>
+    <!--https://blog.csdn.net/lwx2615/article/details/5624388-->
 
     <!--
     Mandatory Default Cache configuration. These settings will be applied to caches
